@@ -1,5 +1,6 @@
 {
   "name": "hexlet-test-project",
+  "type": "module",
   "version": "1.0.0",
   "description": "test",
   "main": "index.js",
@@ -11,5 +12,8 @@
     "url": "hexlet-js"
   },
   "author": "RoninSK8",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.20"
+  }
 }
